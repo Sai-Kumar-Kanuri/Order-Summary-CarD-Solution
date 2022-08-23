@@ -22,7 +22,7 @@ https://github.com/Sai-Kumar-Kanuri/Order-Summary-CarD-Solution/blob/main/screen
 ### Links
 
 - Solution URL: [https://github.com/Sai-Kumar-Kanuri/Order-Summary-CarD-Solution](https://your-solution-url.com)
-- Live Site URL: [https://sai-kumar-kanuri.github.io/Order-Summary-CarD-Solution/](https://your-live-site-url.com)
+- Live Site URL: https://sai-kumar-kanuri.github.io/Order-Summary-CarD-Solution/
 
 ## My process
 
